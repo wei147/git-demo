@@ -1,5 +1,5 @@
 hello Git!
-hello Git!
+hello Git!	some text
 hello Git!
 hello Git!
 hello Git!
